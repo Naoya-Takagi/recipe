@@ -1,0 +1,156 @@
+
+ --------------- 
+ Start of the model execution. 
+{
+  "mode": null,
+  "number": null,
+  "iteration": null,
+  "set": null,
+  "load": null,
+  "cuda": null,
+  "path": null,
+  "file": null,
+  "architecture": null,
+  "embedding": null,
+  "loss": null,
+  "rate": null,
+  "score": null,
+  "maxpool": true
+}
+ start the training 
+
+ --------------- 
+ Start of the model execution. 
+{
+  "mode": null,
+  "number": null,
+  "iteration": null,
+  "set": null,
+  "load": null,
+  "cuda": null,
+  "path": null,
+  "file": null,
+  "architecture": null,
+  "embedding": null,
+  "loss": null,
+  "rate": null,
+  "score": null,
+  "maxpool": true
+}
+ start the training 
+
+ --------------- 
+ Start of the model execution. 
+{
+  "mode": null,
+  "number": null,
+  "iteration": null,
+  "set": null,
+  "load": null,
+  "cuda": null,
+  "path": null,
+  "file": null,
+  "architecture": 7,
+  "embedding": null,
+  "loss": null,
+  "rate": null,
+  "score": null,
+  "maxpool": true
+}
+ start the training 
+-----------------
+Start of the iteration 0. 
+sample number:  0
+sample id:  how-to-make-halal-vanilla-extract
+
+ --------------- 
+ Start of the model execution. 
+{
+  "mode": null,
+  "number": null,
+  "iteration": null,
+  "set": null,
+  "load": null,
+  "cuda": null,
+  "path": null,
+  "file": null,
+  "architecture": 7,
+  "embedding": null,
+  "loss": null,
+  "rate": null,
+  "score": null,
+  "maxpool": true
+}
+ start the training 
+-----------------
+Start of the iteration 0. 
+sample number:  0
+sample id:  how-to-make-halal-vanilla-extract
+
+ --------------- 
+ Start of the model execution. 
+{
+  "mode": null,
+  "number": null,
+  "iteration": null,
+  "set": null,
+  "load": null,
+  "cuda": null,
+  "path": null,
+  "file": null,
+  "architecture": null,
+  "embedding": null,
+  "loss": null,
+  "rate": null,
+  "score": null,
+  "maxpool": true
+}
+ start the training 
+
+ --------------- 
+ Start of the model execution. 
+{
+  "mode": null,
+  "number": null,
+  "iteration": null,
+  "set": null,
+  "load": null,
+  "cuda": null,
+  "path": null,
+  "file": null,
+  "architecture": 7,
+  "embedding": null,
+  "loss": null,
+  "rate": null,
+  "score": null,
+  "maxpool": true
+}
+ start the training 
+-----------------
+Start of the iteration 0. 
+sample number:  0
+sample id:  how-to-make-halal-vanilla-extract
+
+ --------------- 
+ Start of the model execution. 
+{
+  "mode": null,
+  "number": null,
+  "iteration": null,
+  "set": null,
+  "load": null,
+  "cuda": null,
+  "path": null,
+  "file": null,
+  "architecture": 7,
+  "embedding": null,
+  "loss": null,
+  "rate": null,
+  "score": null,
+  "maxpool": true
+}
+ start the training 
+-----------------
+Start of the iteration 0. 
+sample number:  0
+sample id:  how-to-make-halal-vanilla-extract

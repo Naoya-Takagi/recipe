@@ -1,0 +1,7 @@
+train/
+test/
+val/
+recipes/
+test_image_resnet50.npy
+train_image_resnet50.npy
+train.json
